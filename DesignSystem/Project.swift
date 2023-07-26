@@ -2,7 +2,7 @@ import ProjectDescription
 import ProjectDescriptionHelpers
 
 let project = Project.framework(
-    name: "PlainItDS",
+    name: "PlanItDS",
     platform: .iOS,
     dependencies: [
         .Module.EmptyModule
